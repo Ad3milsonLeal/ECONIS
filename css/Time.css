@@ -1,0 +1,6 @@
+.bot{
+    background-color: green;
+}
+.bot:hover{
+    background-color: blue;
+}
